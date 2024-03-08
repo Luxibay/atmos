@@ -1,7 +1,7 @@
 {
     "name": "luxibay/atmos",
     "description": "The Atmos plugin adds a Gravity Forms element to Oxygen.",
-    "type": "project",
+    "type": "wordpress-plugin",
     "license": "GPL",
     "authors": [
         {
