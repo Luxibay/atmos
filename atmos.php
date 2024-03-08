@@ -11,9 +11,8 @@ Requires Plugins: gravityforms, oxygen
 Text Domain: atmos
 */
 
-define("ATMOS_PATH", plugin_dir_path(__FILE__) . "frame");
-define("ATMOS_MAIN", __FILE__);
-define('ATMOS_STORE_URL', 'https://luxibay.com');
+define('ATMOS_PATH', plugin_dir_path(__FILE__) . 'frame');
+define('ATMOS_MAIN', __FILE__);
 define('ATMOS_VERSION', '1.0');
 define('ATMOS_NAME', 'Atmos');
 
