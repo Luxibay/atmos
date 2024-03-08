@@ -5,7 +5,7 @@ Plugin Name: Atmos
 Plugin URI: https://luxibay.com/plugins/atmos
 Author: Luxibay
 Author URI: https://luxibay.com/
-Description: The Atmos plugin adds a Gravity Forms element to Oxygen. Brought to you by Luxibay. 
+Description: The Atmos plugin adds a Gravity Forms element to Oxygen.
 Version: 1.0
 Requires Plugins: gravityforms, oxygen
 Text Domain: atmos
